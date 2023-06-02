@@ -47,13 +47,13 @@ body {
 .right {
     text-align: right;
     color: dimgrey;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Bebas Neue', sans-serif;
     width: 100%;
     opacity: 0;
     animation: fadeIn 1s ease 1;
     animation-delay: 3s;
     animation-fill-mode: forwards;
-    font-size: 20px;
+    font-size: 24px;
 }
 
 .stack {
